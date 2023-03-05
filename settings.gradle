@@ -12,9 +12,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-//        flatDir {
-//            dirs("libs/", "lib/")
-//        }
     }
 }
 rootProject.name = "ToDoApp"
